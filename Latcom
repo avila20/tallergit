@@ -1,0 +1,74 @@
+ <html>  <head>
+  <title>Herramientas de Gesti�n</title>
+  <link type="text/css" rel="stylesheet" href="estilos.css" />
+  </head>
+  <body>
+ 
+  <div class="principal">
+
+    <div class="encabezado">
+    <img src="\\10.110.64.209\compartido\O.A.A.P (^.^)\Images\lat.png" alt="image" width="240" height="86" style="float: left;" /> 
+	<h1>Herramientas de Gesti�n Inbound</h1>
+    </div>
+ 
+	<div class="contenido">
+		<div class="menu">
+		<ul> <li><a href="http://applications.claro.com.co/Minisites/cobertura/cobertura" add_date="1475092015" icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACFklEQVQ4jXWSPW4UQRCFv+np2T+vwQhhaRNwQOrMiUXERRBwFkLuAAGn4BJOLHkDomVtozG7sr0/np/uegQzu94Av1ZJLXXXq1f1CknJJs7Pz9+v12v9L5bLpfI818XFxbfdHGaz2fbTbDbTUwghqCxLjcdjTSaTLUmyWCz081fB9K7iwFd8eHdEVdXM7xbsIsYIQP7nkk6WYWbfj4+PP3uA6W3F9LaEofEUnHOYGS9eHnKwv8dqtfx4dnb2wwMYIkjcFQGANHUMBz2cSyEBiw2xEBJkWUan22M8HjsPIIFJmNTKNRarB7IsIwGqqkZgJpyZOHi+b5n3xBjZKnAOsjRpK7WQEGACgWv4EwAnIBAagihRBGOdRCQhacuyuUq0b2AGMhGKgJdENFGbEdsPqEm4vr4i8ymSyPOc4XDIal3y+s0R3nsmk8kzr1bBJpoDBqRpik9ThsM9RqPRoypEDJHT09OvHkEwo45GMMPagTZKEnq9HnUdqarF1oUNQgRviGBNcjQhe+x3sDfg1eFh27e2bm1mU5QVXoK4U1USSeIY9PuUhZGmnrKseCgKzESMRtbp0u12cWmKwyCaWNdG4hrLEufo93v4doDRImbaRgiRGEWMwhvw6WTEsop0iMzn8x27ms3sdLqkaYdowuxx6czAT6e/v9R17RKDGriE1gO4v1+c3OT5W2vnYyZMiYlmOWZ/b67+ARbw6ivXuyeBAAAAAElFTkSuQmCC" target="_blank">Mapa de Cobertura Claro</a></li>  </ul>    
+		<ul> <li><a href="http://10.110.64.212/" target="_blank">MOODLE</a></li>  </ul>               
+		<ul> <li><a href="http://10.110.64.218/form/home.php" target="_blank">Latcom | Intranet</a></li>   </ul>    
+		<ul> <li><a href="http://wweb02:9099/Web.Disponibilidad/" target="_blank">Consulta Disponibilidad</a></li>   </ul> 
+		<ul> <li><a href="http://aplicacionesweb/SIMCARDPERFIL5/Consulta_simcard_inicio.aspx" target="_blank">Consulta Perfil Sim Card</a></li>   </ul> 
+		<ul> <li><a href="http://aplicacionesweb/Consulta_Portados_Intranet/consulta_portados.aspx" target="_blank">Consulta Portados Intranet</a></li>   </ul> 
+		<ul> <li><a href="http://www.imeicolombia.com.co/ConsultaPublicaIMEI/" target="_blank">IMEI COLOMBIA</a></li>   </ul> 
+		<ul> <li><a href="http://172.21.0.15/usim/index.php" target="_blank">IMEI FINDER - USIM</a></li>   </ul> 
+		<ul> <li><a href="http://10.67.106.102/calidadgestion/index.php">CALIDAD Y GESTI�N</a></li>   </ul> 
+		<ul> <li><a href="http://172.24.4.168/custcare_cmax/SolutionUnitServlet?StartSu=true&SuName=GenericContractSearchSU&RequestTimeStamp=1475195121287"> CMAX </a></li>   </ul> 
+		<ul> <li><a href="http://172.22.87.71:8080/CCI/index.jsp?status=sessionClosed"> OTA </a> User/Pass: H0872182</a></li>   </ul> 
+		<ul> <li><a href="http://aplicacionesweb/consultas_mo/consulta_usuarios.aspx" add_date="1475109107">SMO</a></li>   </ul> 
+		<ul> <li><a href="http://portalsac.comcel.com.co">PORTAL SAC</a></li>   </ul> 
+	</div>
+   
+    
+	<div class="menu1">
+		<ul> <li><a href="https://www.helpforsmartphone.com/uffmovil/en/devices">Help for Smartphone</a></li>   </ul> 
+		<ul> <li><a href="http://wweb02/CMC/Login/Login.aspx"> CMC</a> </li>   </ul> 
+		<ul> <li><a href="https://10.68.97.143:8443/web/guest/login"> TRAZA </a></li>   </ul> 
+		<ul> <li><a href="http://portalsms.comcel.com.co/GntPortal/inicio/">Portal SMS</a></li>   </ul> 
+		<ul> <li><a href="https://www.google.com.co/maps">Google Maps</a> "recuerda el Proxy"</a></li>   </ul> 
+		<ul> <li><a href="http://172.21.6.11/Msoporte/index.php" add_date="1475109103" icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB9klEQVQ4jZ2T30tTYRzGP++2c5azcWq/0nRb4AhWOqUIEll40WXRld14Kf1w/0D0D5QXgVAXUoRSGHgR/TB2FRRWqDcx68JdWNvUtViIOzO2padtXayOy7MY9Fy93+f7PM/75cv7CoAHyVz1fiLHkvqDZjAL6DvQQiTg4KJPEWI6pVZH32eaGhthpr8T093Pm/9lBpj4lMOysVP+iwwp+1C1MmtFTed8Nolhv0Jeq/BoNU9eq3k2tn9iqTePhQ4RCTjI75QZeJVkragRdtuIhv26pscuMRrL6rUJQJHMTJw8TCTgAECRzZxzSgBc7WhBLRR1g7e8e9YDelpNJOPLfEis643OSglFMjN0a5I7L17rfCq7YQx4E09w412cS5NPd3fhsqMWishnL9DX263z07EVY4Cp3YvlRD/L/l5Wf99wpqsDIVsJu22cD9Z28HwhxrxQjAF64fQwF0/q9fWgi5vB2l7UQpErj+cwtXv/HQDwNpOrC3ATctkBGBq7R+HU4F65MSD6rWQQjYxPsdB2DCFbmwd8b/Nz+9lLfeyR8Slmtu2G0f/AcsQmka57dUK2cm1+hdnFJT6msxS6T2M+eryh2d8qI2a/bFWHF9OGZuXrOsLpaTg21H7lkwEfAiCa2ao+TOXJlLSG4r3w2iQudx1k0LNf/AIjI6ANgY6nOAAAAABJRU5ErkJggg==">Mantenimiento - Fallas</a> User: msoporte Pass: Msoporte123</a></li>   </ul> 
+		<ul> <li><a href="http://166.210.32.45/site_access/portalSAC_consulta_primerNivel.php">Mnatenimientos - Fallas Nivel 1</a></li>   </ul> 
+		<ul> <li><a href="http://sac/Procedimientos_SAC/Valor_Agregado/2013/Validaciones%20Nivel%201%20APNs%20QoS%20V1.pdf"</a> QOS </a></li>   </ul> 
+		<ul> <li><a href="http://sac/Directorio/CAC.htm"</a>Centros de atencion y ventas</a></li>   </ul> 
+		<ul> <li><a href="http://123mic/sm9/ess.do?lang=es"> 123MIC </a> USER DE RED </a></li>   </ul> 
+		<ul> <li><a href="http://wperfpoint01:8085/peventos/login.aspx"> Data WareHouse </a> USER DE RED </a></li>   </ul>
+		<ul> <li><a href="http://sac/inlformativos_15/valor_agregado/mis_servicios_VA.htm"> Servicios de valor agregado </a> USER DE RED </a></li>   </ul>
+
+	<script language="javascript">
+	function herramientas(){
+		window.open('http://wweb02/CMC/Login/Login.aspx', '_blank');
+		window.open('http://10.110.64.218/form/home.php', '_blank');	
+		window.open('http://10.110.64.218/form/home.php', '_blank');
+		window.open('http://10.110.64.218/form/inbound/index.php', '_blank');
+		window.open('http://wweb02:91/Claro.Formatos.Web.SGCS.App/Pages/CasoServicio.aspx?Id_Formato=778', '_blank');
+		window.open('http://portalsac.comcel.com.co/', '_blank');
+		window.open('http://172.23.3.5/Claro.Du.Web/User/Default.aspx', '_blank');
+		window.open('http://aplicacionesweb/consultas_mo/consulta_usuarios.aspx', '_blank');
+		window.open('http://166.210.32.45/site_access/portalSAC_consulta_primerNivel.php', '_blank');
+		window.open('http://172.24.4.168/custcare_cmax//login', '_blank');
+		window.open('https://10.68.97.143:8443/web/guest/login?p_p_id=58&p_p_lifecycle=0&_58_redirect=%2Fgroup%2Fcci%2Fcc%3Fp_p_id%3Dcustomercareportlet_WAR_customercareportlet_INSTANCE_gcH3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1%26_customercareportlet_WAR_customercareportlet_INSTANCE_gcH3_jspPage%3D%252Fhtml%252Fcca-troubleshooting.jsp%3FscenarioId%3DData_L2', '_blank');
+		window.open('https://www.google.com.co/maps/', '_blank');
+		window.open('http://172.21.6.11/calidadgestion/', '_blank');
+	}
+	</script>
+
+		<ul> <li><a href="javascript:herramientas()">Herramientas</a></li>   </ul>
+
+	</div>
+    </div>
+   
+  <div class="piepagina">
+  <h1>Descripcion</h1>
+  </div>
+  </div>
+  </body>
+</html>
