@@ -1,2 +1,0 @@
-# tallergit
-Taller de Git
